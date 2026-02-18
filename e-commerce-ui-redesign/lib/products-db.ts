@@ -176,6 +176,7 @@ const FALLBACK_PRODUCTS: Product[] = [
 ]
 
 
+
 export async function getAllProducts(): Promise<Product[]> {
   try {
     const { db } = await connectToDatabase()
