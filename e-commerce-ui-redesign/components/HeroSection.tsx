@@ -13,9 +13,9 @@ export function HeroSection() {
           className="w-full h-full object-cover opacity-50"
         >
           <source
-            src="https://v0.blob.vercel-storage.com/rcarecords-hero-background-optimized.mp4"
-            type="video/mp4"
-          />
+    src="https://www.w3schools.com/html/mov_bbb.mp4"
+    type="video/mp4"
+  />
           Your browser does not support the video tag.
         </video>
       </div>
